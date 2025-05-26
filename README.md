@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Gómez Niño</h1>
 
----
-
 🚀 Desarrollador Junior apasionado por código limpio y tecnología de vanguardia  
 🎮 Videojuegos | ⚽ Fútbol | 🚴 Ciclismo | 💻 Fanático de la tecnología  
 💻 Dominio en: Python, JavaScript, HTML/CSS, Node.js, MySQL, MongoDB & GitHub  
