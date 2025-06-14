@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Juan David Gómez Niño</h1>
 
 <div align="center">
-  <img src="./profile.image.jpg" alt="Juan David Avatar" width="180" height="180" style="border-radius: 50%;" />
+  <img src="./profile.image.jpg" alt="Juan David Avatar"/>
 </div>
 
 ---
