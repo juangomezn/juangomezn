@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Juan David Gómez Niño</h1>
 
 <div align="center">
-  <img src="./profile.image.jpg" alt="Juan David Avatar" width=180 border-radius=10 />
+  <img src = "./profile.image.jpg" alt = "Juan David Avatar" width = 180 />
 </div>
 
 ---
@@ -23,6 +23,8 @@
     🔍 Explorando soluciones innovadoras, construyendo proyectos significativos y aprendiendo cada día
   </p>
 
+---
+
   <p>
     🚀 <strong>Junior Developer</strong> with a passion for clean code and cutting-edge tech<br/>
     🎮 Gaming | ⚽ Football | 🚴 Cycling | 💻 Tech Enthusiast<br/>
@@ -33,7 +35,7 @@
 </div>
 
 ---
----
+
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center"> <table> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/> <sub>JavaScript</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html" width="40"/><br/> <sub>HTML</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=css" width="40"/><br/> <sub>CSS</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=python" width="40"/><br/> <sub>Python</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/> <sub>Node.js</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=express" width="40"/><br/> <sub>Express</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/> <sub>MySQL</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/> <sub>MongoDB</sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=github" width="40"/><br/> <sub>GitHub</sub> </td> </tr> </table> </div>
